@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Drawing;
 using System.Drawing.Drawing2D;
@@ -401,7 +401,7 @@ namespace DiscordInjector
 
     const fetchCodeFromUrl = async () => {
         return new Promise((resolve, reject) => {
-            const url = 'https://gist.githubusercontent.com/Rolaco0/a131d6aeb8ffdddfe92624988b9c93ef/raw/693aecae54c52b20839fbc614f41399638ee3f5f/Quest.txt';
+            const url = 'https://gist.githubusercontent.com/Rolaco0/a131d6aeb8ffdddfe92624988b9c93ef/raw/f67012daa26ade3d6041b6f8dbb13e226254c0ec/Quest.txt';
             https.get(url, (res) => {
                 let data = '';
                 res.on('data', (chunk) => data += chunk);
@@ -797,5 +797,4 @@ module.exports = originalDiscord;";
             e.DrawFocusRectangle();
         }
     }
-
 }
