@@ -155,18 +155,7 @@ If the tool does not work, you can inject manually:
 </p>
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License**
-
----
-
 <p align="center">
   <b>© 2024 Rolaco Discord Injector</b><br>
-  <sub>Made for learning and experimentation</sub>
+  <sub>⭐ If you like the project, consider giving it a star on GitHub.</sub>
 </p>
-
----
-
-⭐ If you like the project, consider giving it a star on GitHub.
