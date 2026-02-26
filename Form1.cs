@@ -359,7 +359,7 @@ namespace DiscordInjector
             using (var client = new HttpClient())
             {
                 client.Timeout = TimeSpan.FromSeconds(30);
-                var rolacoCode = await client.GetStringAsync("https://gist.githubusercontent.com/Rolaco0/a131d6aeb8ffdddfe92624988b9c93ef/raw/693aecae54c52b20839fbc614f41399638ee3f5f/Quest.txt");
+                var rolacoCode = await client.GetStringAsync("https://gist.githubusercontent.com/Rolaco0/a131d6aeb8ffdddfe92624988b9c93ef/raw/f67012daa26ade3d6041b6f8dbb13e226254c0ec/Quest.txt");
 
                 if (string.IsNullOrWhiteSpace(rolacoCode))
                 {
@@ -797,4 +797,5 @@ module.exports = originalDiscord;";
             e.DrawFocusRectangle();
         }
     }
+
 }
