@@ -118,14 +118,14 @@ If the tool does not work, you can inject manually:
 
 <p align="center">
   <a href="https://gist.githubusercontent.com/Rolaco0/a131d6aeb8ffdddfe92624988b9c93ef/raw/f67012daa26ade3d6041b6f8dbb13e226254c0ec/Quest.txt" target="_blank">
-    <img src="https://img.shields.io/badge/Copy%20the%20script-Quest.txt-5865F2?style=for-the-badge&logo=javascript" alt="1. Copy the script">
+    🔗 Copy the script (Quest.txt)
   </a>
 </p>
 
-2. Open Discord and press `Ctrl + Shift + I`  
-3. Go to the **Console** tab  
-4. Paste the code and press **Enter**  
-5. Rolaco interface will appear automatically  
+1. Open Discord and press `Ctrl + Shift + I`
+2. Go to the **Console** tab
+3. Paste the code and press **Enter**
+4. The Rolaco interface will appear automatically
 
 ---
 
