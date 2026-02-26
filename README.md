@@ -148,7 +148,11 @@ If the tool does not work, you can inject manually:
 
 ## 📞 Support
 
-- Report issues via **GitHub Issues**
+<p align="center">
+  <a href="https://discord.gg/4yBJfkRSvN" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join%20Support-5865F2?style=for-the-badge&logo=discord" alt="Discord Support">
+  </a>
+</p>
 
 ---
 
