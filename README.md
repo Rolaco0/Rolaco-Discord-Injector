@@ -116,7 +116,7 @@ After injection, you get a full quest automation panel inside Discord.
 
 If the tool does not work, you can inject manually:
 
-1. <p align="center">
+<p align="center">
   <a href="https://gist.githubusercontent.com/Rolaco0/a131d6aeb8ffdddfe92624988b9c93ef/raw/f67012daa26ade3d6041b6f8dbb13e226254c0ec/Quest.txt">
     🔗 Copy the script (Quest.txt)
   </a>
