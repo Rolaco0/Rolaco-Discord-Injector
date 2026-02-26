@@ -1,15 +1,5 @@
 # Rolaco Discord Injector
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/Platform-Windows-00adee?style=for-the-badge" alt="Platform">
-  <img src="https://img.shields.io/badge/Discord-Stable%20%7C%20PTB%20%7C%20Canary-5865F2?style=for-the-badge" alt="Discord">
-</div>
-
-<p align="center">
-  <b>A Windows tool to inject and manage the Rolaco Completer script in Discord</b>
-</p>
-
 ---
 
 ## 📋 Overview
@@ -80,7 +70,7 @@ After injection, you get a full quest automation panel inside Discord.
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/yourusername/DiscordInjector/releases">
+  <a href="https://github.com/Rolaco0/Rolaco-Discord-Injector/releases/download/v2.0.0/RolacoInjector.exe">
     <img src="https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
